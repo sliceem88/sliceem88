@@ -1,4 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/43166842/168422193-8d85e4e1-c3ec-4a17-8672-e98e0b9eb25d.png)](https://github.com/sliceem88)
+[![MasterHead](https://user-images.githubusercontent.com/43166842/168422823-abea59bf-44af-496a-802d-85f56a0a084a.png)](https://github.com/sliceem88)
+
+### For the last 2 years, I have been developing e-com solutions using PHP and JavaScript. Technical Skills & Tools: PHP, JS, TS, GraphQL, StoryBook, VueJS, Vuex, React, Redux, Sanity, Groq, Magento 1/2, ScandiPWA, BEM, CSSinJS. Linux, Docker
 
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
