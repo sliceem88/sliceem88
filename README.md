@@ -29,6 +29,5 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-Currently learnign
-1) ![symfony](https://img.shields.io/badge/symfony-5-green)
-2) ![gatsby.js](https://img.shields.io/badge/gatsby--yellow)
+Currently learnign:
+![symfony](https://img.shields.io/badge/symfony-5-green) ![gatsby.js](https://img.shields.io/badge/gatsby--yellow)
