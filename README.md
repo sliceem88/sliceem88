@@ -30,4 +30,4 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 Currently learnign
-- ![symfony](https://user-images.githubusercontent.com/43166842/168423021-6b9fdb38-190c-47e5-9944-dbde19e24d68.svg)
+- ![symfony](https://img.shields.io/badge/symfony-5-green)
