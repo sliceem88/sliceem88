@@ -1,9 +1,10 @@
 [![MasterHead](https://user-images.githubusercontent.com/43166842/168422823-abea59bf-44af-496a-802d-85f56a0a084a.png)](https://github.com/sliceem88)
 
-#### For the last 2 years, I have been developing e-com solutions using PHP and JavaScript. 
+#### For the last 2 years, I have been developing e-com solutions using PHP and JavaScript.
+#### Something that I love about programming is the opportunity to work with people from a wide range of disciplines.
 ### Technical Skills & Tools: 
 #### PHP, JS, TS, GraphQL, StoryBook, VueJS, Vuex, React, Redux, Sanity, Groq, Magento 1/2, ScandiPWA, BEM, CSSinJS. 
-#### Linux, Docker
+#### Linux, Docker, Jenkins.
 
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
