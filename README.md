@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/43166842/168422823-abea59bf-44af-496a-802d-85f56a0a084a.png)](https://github.com/sliceem88)
 
-Hi 👋 My name is Aleksejs Kiselovs
+Hi 👋 My name is Aleksey
 ==================================
 
 Adobe Certified Professional, Full-Stack PHP engineer, Mentor at Riga TechGirls
